@@ -47,5 +47,5 @@
 [branch "master"]
   mergeoptions = --no-edit
 [user]
-	email = biraultvalentin@gmail.com
+	email = valentin@amenitiz.io
 	name = Valentin Birault
